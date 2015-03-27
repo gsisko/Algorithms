@@ -55,8 +55,9 @@ def Cubic_Function(n):
 
 
 #test Output for homework
+"""
 input = 5000
 Linear_Function(input)
 Quadratic_Function(input)
 Cubic_Function(input)
-
+"""

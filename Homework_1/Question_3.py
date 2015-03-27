@@ -30,7 +30,7 @@ def Binary_Third(K):
 
 
 #Testing
-for i in range(0,200):
+for i in range(0,201):
 	print "Searching for " + str(i)
 	Binary_Third(i)
 
