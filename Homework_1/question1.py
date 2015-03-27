@@ -1,6 +1,6 @@
-from Question_1 import Linear_Function
-from Question_1 import Quadratic_Function
-from Question_1 import Cubic_Function 
+from HW1_src import Linear_Function
+from HW1_src import Quadratic_Function
+from HW1_src import Cubic_Function 
 import sys
 
 for arg in sys.argv:
